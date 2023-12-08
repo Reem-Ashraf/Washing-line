@@ -1,0 +1,55 @@
+const String imgPath = 'assets/images/';
+
+class AppImages {
+  static String appLogo = '${imgPath}app logo.png';
+  static String loginImage = '${imgPath}loginImage.png';
+  static String laundryAndDry = '${imgPath}Laundry and dry cleaning (1) 1.png';
+  static String takeAway = '${imgPath}Take Away 1.png';
+  static String businessRisk = '${imgPath}Business risk 1.png';
+  static String profileImage = '${imgPath}profile image.png';
+  static String levelsImage = '${imgPath}levels.png';
+  static String laundry = '${imgPath}laundry 2.png';
+  static String clothesImage = '${imgPath}clothes.png';
+  static String washingMachine = '${imgPath}washing-machine 1.png';
+  static String cleaning = '${imgPath}cleaning 1.png';
+  static String dryAndWash = '${imgPath}dry and wash.png';
+  static String dry = '${imgPath}drying.png';
+  static String cutting = '${imgPath}cutting 1.png';
+  static String swingMachine = '${imgPath}sewing-machine 1.png';
+  static String tieDye = '${imgPath}tie-dye 1.png';
+  static String iconLevel = '${imgPath}filter.png';
+  static String groupMaskImage = '${imgPath}Mask group.png';
+  static String creditCardImage = '${imgPath}Credit Card.png';
+  static String payImage1 = '${imgPath}pay Image1.png';
+  static String payImage2 = '${imgPath}payImage2.png';
+  static String applePay = '${imgPath}applePay.png';
+  static String pointsImage = '${imgPath}points Image.png';
+  static String billsImage = '${imgPath}bills image.png';
+  static String menuVertical = '${imgPath}carbon_overflow-menu-vertical.png';
+  static String qrCode = '${imgPath}qr-code 1.png';
+  static String carpetImage = '${imgPath}carpet image1 .png';
+  static String whatsUpImage = '${imgPath}whatsup.png';
+  static String smsImage = '${imgPath}sms.png';
+  static String successfulPurchase = '${imgPath}Successful purchase 1.png';
+  static String helpingIcon = '${imgPath}healping Icon.png';
+  static String emailSent = '${imgPath}Mail sent 1.png';
+  static String saudiArabiaFlag =
+      '${imgPath}Flag_of_Saudi_Arabia_(state) 2.png';
+  static String americaFlag = '${imgPath}amirca.png';
+  static String mobilePayment = '${imgPath}Mobile payments 1.png';
+  static String carpetImage2 = '${imgPath}carpet 1.png';
+  static String windowImage = '${imgPath}window 1.png';
+  static String sofaImage = '${imgPath}sofa 1.png';
+  static String napkinImage = '${imgPath}napkin 1.png';
+  static String officeChair = '${imgPath}office-chair 1.png';
+  static String clothesHanger = '${imgPath}clothes-hanger 1.png';
+  static String deliveryBox1 = '${imgPath}delivery box1.png';
+  static String delivery2 = '${imgPath}delivery-box 2.png';
+  static String shipping = '${imgPath}shipping 1.png';
+  static String timeLeft = '${imgPath}time-left 1.png';
+  static String inStock = '${imgPath}in stock.png';
+  static String soldOut = '${imgPath}sold out.png';
+  static String menuIcon = '${imgPath}menu.png';
+  static String filterIcon = '${imgPath}filter icon.png';
+  static String splashScreenImage = '${imgPath}splash screen image.png';
+}
